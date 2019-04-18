@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+#btn-menu{
+    display: none;
+}
+header{
+    background-color: #2f2f2f;
+    font-weight: 600;
+}
+header label{
+    color: antiquewhite;
+    font-size: 30px;
+    display: block;
+    padding:5px 10px;
+    width: 25px;
+    display: none;
+    border-right: 1px solid #ceadad
+}
+header label:hover{
+    background-color: blue;
+}
